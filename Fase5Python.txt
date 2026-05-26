@@ -1,0 +1,16 @@
+# Fase 5 - Fundamentos de Programación
+
+Proyecto desarrollado en Python para evaluar el nivel de compromiso de sesiones de clientes.
+
+## Autor
+Sebastián Pérez
+
+## Funcionalidades
+- Uso de matrices
+- Funciones
+- Estructuras condicionales
+- Ciclos for
+- Clasificación de sesiones
+
+## Repositorio académico
+Actividad correspondiente a la Fase 5 del curso Fundamentos de Programación.
